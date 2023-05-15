@@ -1,0 +1,21 @@
+{
+    "botToken": "MTA2ODYzODkwMjk4ODA1MDQ4Mw.Gic7sM.waC_WMAaQMTCDwtLMQ3m3PGIwpmai1XKHkuW5A",
+    "guildId": "1088137084629438504",
+    "adminChannelId": "1092431442375618561",
+    "moderatorRoleId": "1092432021537693766",
+    "tradingChannelId": "1092463830388449352",
+    "coinFlipChannelId": "1092463893743411310",
+    "commandsChannelId": "1093384030529015959",
+    "giveawayPingRoleId": "1092432437327446086",
+    "matchAnnouncementLogChannelId": "961893716992340028",
+    "predictionLogChannelId": "961894460587913226",
+    "packChannelId": "958062670051954808",
+    "moneyManRole": "958067809324253205",
+    "BetRoleId": "950138143238156329",
+    "appCheckToken": "eyJraWQiOiJsWUJXVmciLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIxOjM1OTYwOTkyOTIwNDphbmRyb2lkOjhiYjc3YTlhNWU1ZmRmYjdkMmZkYTEiLCJhdWQiOlsicHJvamVjdHNcLzM1OTYwOTkyOTIwNCIsInByb2plY3RzXC9tYWRmdXQtMjMiXSwiaXNzIjoiaHR0cHM6XC9cL2ZpcmViYXNlYXBwY2hlY2suZ29vZ2xlYXBpcy5jb21cLzM1OTYwOTkyOTIwNCIsImV4cCI6MTY4MTExODk4NSwiaWF0IjoxNjgwNTE0MTg1LCJqdGkiOiJjXzlfQmlIS296NU5RSTBYSnVyX1RldzhxeUs3bTZ6TTVOcXJiek9VNDNFIn0.gs68SByiwYB7gPMyBY_UW1QR_m-Y2HmNcei0lb2UJzVXK06ovgXSvHxOG1qZklSbZmvQU-yh3_Le-2tmg1ztRO72vYz4oJIdKpEsDNSKTin2zplD3Cb3cbI4iZyxgIzLy5DC03-aAo18fXIO50X5zP46bvgJI9zg8dagyy7KQEInjM_kCuQKfLirHNXBrhzdFYXOJkXGfdqiRY3uBrLe8QvHHMiWZzQh-hvK4h1brlmBmneSYAW1NXyvK095lmLMYa3gTSLyuKNAfyW7HguyCobB9IotuwCgeT2Ih2oBFbmFfiSm7NzEz0AWkzAG7pezUnsSYNW3wOrZyvya8dzpKaSjX5jiuruLieK20sGe1Qrw3xPTogVgZpmngfT-JV4rIrt2s4lYa4ER7j7fHB9HTztnZ_rb4VaJfZVtBky1k-c4vq2j65klAUOhXJeqBG9VTJf4J58wgICV1DVIRSc4Tm1pmnWcehH1KDVyBxHyzVgZxZTcURPUbHBAzAWWt31O",
+    "madfutEmail": "dezfutbot123@gmail.com",
+    "madfutPassword": "DezFut@123",
+    "shoppySecret": "SECRET_HERE",
+    "shopLogChannelId": "CHANNEL_ID_HERE"
+  
+}
